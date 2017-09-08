@@ -17,3 +17,17 @@ pros of automatic saving is that we won't forget but it could be hard to trace t
 4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
 because git is for code, and the codebase can exist in several files, while google docs mostly is in one file .
+
+5) How can you use the commands git log and git diff to view the history of files? 
+
+use git log to find the history of commits and their reasons 
+
+git diff to find out the changes between two commits 
+
+6) How might using version control make you more confident to make changes that could break something? 
+
+I could just make the change, and then if it doesn't work, I could just restore the previous commit. 
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+
+android studio projects, help students when they ask 
