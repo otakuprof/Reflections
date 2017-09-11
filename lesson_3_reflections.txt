@@ -14,3 +14,8 @@ clone - a local copy of a repo on my computer, so that I can make changes on my 
 
 branches - a different set of commits. 
 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+
+I can continue working on the project when I have no internet access. 
+
