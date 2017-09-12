@@ -26,3 +26,9 @@ I would probably be working in the same room at the same time with my collaborat
 It would be easier to discuss face to face and clarify doubts straightaway. 
 It would be harder to see changes made without a tool like GitHub. 
 It would also be harder to schedule a common time to work together.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Separate branch - when I am collaborating with someone else and I'm not sure if the changes would be accepted by my collaborators.
+
+Directly in master - small changes. 
