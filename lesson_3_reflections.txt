@@ -19,3 +19,10 @@ branches - a different set of commits.
 
 I can continue working on the project when I have no internet access. 
 
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would probably be working in the same room at the same time with my collaborators, and then we would set up regular meetings to discuss changes and plan changes carefully. 
+
+It would be easier to discuss face to face and clarify doubts straightaway. 
+It would be harder to see changes made without a tool like GitHub. 
+It would also be harder to schedule a common time to work together.
